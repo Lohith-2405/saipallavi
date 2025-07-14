@@ -109,7 +109,8 @@
   </div>
 
   <footer>
-  @LOHITHBASAVARAJ18@GMAIL.COM
+  &COPY; COPYRIGHTS RESERVED
+   @LOHITHBASAVARAJ18@GMAIL.COM
   </footer>
 </body>
 </html>
