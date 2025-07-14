@@ -111,10 +111,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/Thandel_film.JPG" alt="THANDEL">
     <h3>Thandel (2025)</h3>
   </div>
+</div>
+
   <footer>
     &COPY; COPYRIGHTS RESERVED
    @LOHITHBASAVARAJ18@GMAIL.COM
   </footer>
 </body>
-</html>
 </html>
