@@ -107,10 +107,14 @@
       <h3>Maari 2 (2018)</h3>
     </div>
   </div>
-
+  <div class="card">
+    <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/Thandel_film.JPG" alt="THANDEL">
+    <h3>Thandel (2025)</h3>
+  </div>
   <footer>
-  &COPY; COPYRIGHTS RESERVED
+    &COPY; COPYRIGHTS RESERVED
    @LOHITHBASAVARAJ18@GMAIL.COM
   </footer>
 </body>
+</html>
 </html>
