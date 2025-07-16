@@ -112,6 +112,11 @@
     <h3>Thandel (2025)</h3>
   </div>
 </div>
+   <div class="card">
+    <img src="https://m.media-amazon.com/images/M/MV5BY2QyYjc5YzItYjgxNC00ZTNmLTlkNDItMGYyOTM1ODM0Mzc5XkEyXkFqcGc@._V1_.jpg" alt="AMARAN">
+    <h3> AMARAN (2025)</h3>
+  </div>
+</div>
 
   <footer>
     &COPY; COPYRIGHTS RESERVED
